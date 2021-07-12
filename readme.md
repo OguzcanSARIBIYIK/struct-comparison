@@ -2,7 +2,14 @@
  ```go get github.com/oguzcansaribiyik/struct-comparison```
  
  ### Example Usage
-  ``` 
+  ```
+    package main
+
+    import (
+      "fmt"
+      comparison "github.com/oguzcansaribiyik/struct-comparison"
+    ) 
+
     type User struct {
       Name string
       Job  Job
