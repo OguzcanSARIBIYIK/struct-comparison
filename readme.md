@@ -1,3 +1,5 @@
+ > :warning: **Comparison only works on the same field name.**
+ 
  ### Installation
  ```go get github.com/oguzcansaribiyik/struct-comparison```
  
