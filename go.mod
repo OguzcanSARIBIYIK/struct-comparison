@@ -1,3 +1,3 @@
-module github.com/OguzcanSARIBIYIK/struct-comparison
+module github.com/oguzcansaribiyik/struct-comparison
 
 go 1.15
